@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">OTP AUTH</string>
+    <string name="home">Home</string>
+    <string name="log">Logout</string>
+    <string name="trend">Trend</string>
+    <string name="prof">Profile</string>
+
+    <string name="demo">Demo</string>
+
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+
+
+</resources>
