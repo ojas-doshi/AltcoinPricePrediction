@@ -88,7 +88,7 @@ class PreprocessData:
 			
 			ts_data = self.get_data_with_timestamp(data=data)
 			
-			f = open(f"training_data_{symbol}.csv","w+")
+			f = open(f"training_data\training_data_{symbol}.csv","w+")
 			for ts_data in self.yeild_data(ts_data):
 				f.write(ts_data)
 			f.close()
