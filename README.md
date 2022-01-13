@@ -1,1 +1,1 @@
-# AltcoinPricePrediction
+# Altcoin Price Prediction
